@@ -20,21 +20,21 @@ print(f"{texto} - {nombre} - {altura} - {str(year)}")
 print(texto + " - " + nombre + " - " + altura + " - " + str(year))
 
 # Entrada
-#sitioweb = input("¿Cuál es tu página web?: ")
-#print("El sitio web del usuario es: " + sitioweb)
+sitioweb = input("¿Cuál es tu página web?: ")
+print("El sitio web del usuario es: " + sitioweb)
 
 # Condiciones
-"""
+
 altura = int(input("¿Cuál es tu altura?: "))
 
 if altura >= 180:
     print("Eres una persona alta")
 else: 
     print("Eres bajito")
-"""    
+  
 
 # Funciones
-"""
+
 var_altura = int(input("¿Cuál es tu altura?: "))
 
 def mostrarAltura(altura):
@@ -48,7 +48,7 @@ def mostrarAltura(altura):
     return resultado
 
 print(mostrarAltura(var_altura))
-"""
+
 
 # Listas
 personas = ["Víctor","Paco", "Pepe"]
