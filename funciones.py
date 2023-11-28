@@ -1,6 +1,4 @@
 # Funciones
-def saludar
-
 def calcular_iva(tipo, precio):
     #IVA libros: 4%
     #IVA turrones: 10%
